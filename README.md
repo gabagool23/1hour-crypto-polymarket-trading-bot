@@ -2,7 +2,7 @@
 
 A Rust-based monitoring bot for Polymarket that tracks BTC 1-hour price prediction markets and displays real-time statistics.
 
-**Repository**: [github.com/baker42757/1hour-crypto-polymarket-trading-bot](https://github.com/baker42757/1hour-crypto-polymarket-trading-bot)
+**Repository**: [github.com/gabagool23/1hour-crypto-polymarket-trading-bot](https://github.com/gabagool23/1hour-crypto-polymarket-trading-bot)
 
 ## Overview
 
