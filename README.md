@@ -3,7 +3,8 @@
 A Rust-based monitoring bot for Polymarket that tracks BTC 1-hour price prediction markets and displays real-time statistics.
 
 
-https://github.com/user-attachments/assets/f194b734-5f5b-469e-b1ef-d70bbc30a01e
+**Repository**: https://github.com/user-attachments/assets/f194b734-5f5b-469e-b1ef-d70bbc30a01e
+
 <img width="1167" height="698" alt="Screenshot_1" src="https://github.com/user-attachments/assets/858abecf-9fdc-4542-ae37-3e27c54b1d3e" />
 
 
